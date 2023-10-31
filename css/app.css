@@ -1,0 +1,15 @@
+body {
+    background-color: RGB(223, 207, 190)
+}
+
+.names {
+    cursor: pointer;
+    width: 10%;
+    height: 25px;
+    list-style: none;
+    letter-spacing: 2px;
+}
+
+.names:hover {
+    background-color: gray;
+}
